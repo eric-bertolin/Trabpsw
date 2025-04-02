@@ -123,3 +123,15 @@ emoji{
   height:32px;
   width:260px;
 }
+/*imagens com borda arredondada*/
+
+.roundedimg {
+  border-radius: 20px;
+  width: 300px;
+  height: auto;
+  transition: transform 0.3s; /* Efeito de hover suave */
+}
+
+.roundedimg:hover {
+  transform: scale(1.05); /* Aumenta ligeiramente ao passar o mouse */
+}
