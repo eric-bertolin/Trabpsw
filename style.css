@@ -135,3 +135,8 @@ emoji{
 .roundedimg:hover {
   transform: scale(1.05); /* Aumenta ligeiramente ao passar o mouse */
 }
+/*CLASSE PARA IMAGENS DE CARTA*/
+.cardimg {
+  width: 250px; 
+  height: 350px; 
+}
